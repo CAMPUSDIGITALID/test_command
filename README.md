@@ -23,7 +23,7 @@ FaturCMS adalah **Content Management System (CMS)** yang menyediakan fitur refer
 Untuk menginstal FaturCMS, jalankan perintah composer di bawah ini dan kamu akan mendapatkan versi terbaru:
 
 ```sh
-composer require campusdatamedia/faturcms
+composer require campusdatamedia/faturcms_new
 ```
 
 ### Konfigurasi File .env:
