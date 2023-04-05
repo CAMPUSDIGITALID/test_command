@@ -27,7 +27,7 @@
         }
     },
     "require": {
-        "php": "^7.3",
+        "php": "^7.3|| ^8.0",
         "campusdatamedia/faturhelper": "^2.0",
         "barryvdh/laravel-dompdf": "^0.8.5",
         "hisorange/browser-detect": "^4.4",
